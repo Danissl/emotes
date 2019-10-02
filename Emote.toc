@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: Emotes
+## Notes: Emotes trial
+## Version: v0.01alpha
+## Author: Danissl
+
+Emote.lua
