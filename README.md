@@ -1,3 +1,3 @@
 # emotes
-basic emote addon
+basic emote addon /n
 Favorites and localization to come
